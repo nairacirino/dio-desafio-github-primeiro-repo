@@ -1,3 +1,18 @@
+/* Funções são trechos de código que podem ser reaproveitados em múltiplos lugares em um programa.
+
+Declarar a função:
+
+function identificador(parâmetros) {
+    bloco de código a ser executado
+
+    return 'valor a ser retornado pela função'
+}
+
+Invocar a função:
+
+identificador(parametro);
+
+
 /* Exercício: REFATORAR O DESAFIO DO IMC
 
 Faça um algoritmo que efetue o cálculo do IMC, com base nas variáveis peso e altura.
